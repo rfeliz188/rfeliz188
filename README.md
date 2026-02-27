@@ -1,4 +1,4 @@
-# Rafael Feliz 👨‍💻 | Azure Cloud Architect & Infrastructure Engineer
+# Rafael Feliz 👨‍💻 | Infrastructure Engineer
 
 Bilingual (EN/ES) cloud professional with 10+ years delivering secure, highly available, automated Microsoft-first platforms across **Azure**, **hybrid infrastructure**, and **identity (AD/Entra ID)**. I build repeatable systems with **Terraform/ARM + PowerShell**, and I care about **governance, cost optimization, resiliency, and security hardening (CIS-CAT)**.
 
